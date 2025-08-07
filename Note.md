@@ -6,7 +6,7 @@
 ## Q2 research 
 - what is Edge computing
 - how to implement model to Andorid app
-- try to implement model to iot device (raspberry pi )
+- try to implement model to iot device (Raspberry pi /Jetson nano )
 - Cantonese fake speech
 - hugging face AI model
 - apply ONNX
