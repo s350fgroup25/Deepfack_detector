@@ -1,4 +1,4 @@
-## choose the project name : 
+## Choose the project name : 
 - Auditron (Audio + Audit + AI vibe)
 - VeriVox (Verification + Voice)
 - EchoSentry (Echo + Sentinel)
